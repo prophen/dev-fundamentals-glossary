@@ -1,6 +1,6 @@
-content: '&copy; Stackbit-Libris. All rights reserved.'
+content: '&copy; Dev Fundamentals Study Group'
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
-    new_window: true
+  - new_window: true
+    text: Join Us on Discord
+    url: 'https://bit.ly/DevFunDiscord'
 has_social: true
