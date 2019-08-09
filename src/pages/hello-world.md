@@ -4,7 +4,7 @@ menus:
   layouts:
     identifier: ''
   main:
-    identifier: ''
+    identifier: about/hello-world
 template: docs
 ---
 
