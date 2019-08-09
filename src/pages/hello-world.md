@@ -2,7 +2,7 @@
 title: Hello World
 menus:
   main:
-    identifier: getting-started
+    identifier: ''
 template: docs
 ---
-Hello World
+
