@@ -4,8 +4,8 @@ subtitle: The style guide provides you with a blueprint of default post and page
 img_path: images/5.jpg
 menus:
   main:
-    title: Style Guide
-    weight: 4
+    title: ''
+    weight: -1
 template: page
 ---
 
