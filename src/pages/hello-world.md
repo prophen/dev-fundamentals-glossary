@@ -2,7 +2,7 @@
 title: Hello World
 menus:
   layouts:
-    identifier: about/hello-world
+    identifier: ''
   main:
     identifier: ''
 template: docs
